@@ -1,0 +1,2 @@
+include ':app', ':common', ':home', ':project', ':user'
+rootProject.name='Component'
