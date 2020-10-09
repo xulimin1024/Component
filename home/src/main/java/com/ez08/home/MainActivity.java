@@ -14,9 +14,9 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
+        setContentView(R.layout.home_activity_main);
         Toast.makeText(this,"homeMainActivity",Toast.LENGTH_SHORT).show();
-        setContentView(R.layout.activity_main);
+
         Log.d("xulimin","我执行了");
     }
 }

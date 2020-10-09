@@ -5,6 +5,7 @@
 
     <application>
         <activity android:name=".ThreeActivity"></activity>
+        <activity android:name=".MainActivity"></activity>
     </application>
 
 </manifest>

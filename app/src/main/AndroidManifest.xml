@@ -21,7 +21,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.ez08.home.ThreeActivity"></activity>
+<!--        <activity android:name="com.ez08.home.ThreeActivity"></activity>-->
+<!--        <activity android:name="com.ez08.home.MainActivity"></activity>-->
     </application>
 
 </manifest>
